@@ -1,0 +1,83 @@
+[
+    {
+      "name": "Classroom 1",
+      "schedule": {
+        "Monday": [
+          { "time": "09:00", "used": false },
+          { "time": "10:00", "used": false },
+          { "time": "11:00", "used": true },
+          { "time": "12:00", "used": false },
+          { "time": "13:00", "used": false }
+        ],
+        "Tuesday": [
+          { "time": "09:00", "used": false },
+          { "time": "10:00", "used": false },
+          { "time": "11:00", "used": false },
+          { "time": "12:00", "used": false },
+          { "time": "13:00", "used": false }
+        ],
+        "Wednesday": [
+          { "time": "09:00", "used": false },
+          { "time": "10:00", "used": false },
+          { "time": "11:00", "used": false },
+          { "time": "12:00", "used": false },
+          { "time": "13:00", "used": false }
+        ],
+        "Thursday": [
+          { "time": "09:00", "used": false },
+          { "time": "10:00", "used": false },
+          { "time": "11:00", "used": false },
+          { "time": "12:00", "used": false },
+          { "time": "13:00", "used": false }
+        ],
+        "Friday": [
+          { "time": "09:00", "used": false },
+          { "time": "10:00", "used": false },
+          { "time": "11:00", "used": false },
+          { "time": "12:00", "used": false },
+          { "time": "13:00", "used": false }
+        ]
+      }
+    },
+    {
+      "name": "Classroom 2",
+      "schedule": {
+        "Monday": [
+          { "time": "09:00", "used": false },
+          { "time": "10:00", "used": false },
+          { "time": "11:00", "used": false },
+          { "time": "12:00", "used": false },
+          { "time": "13:00", "used": false }
+        ],
+        "Tuesday": [
+          { "time": "09:00", "used": false },
+          { "time": "10:00", "used": false },
+          { "time": "11:00", "used": false },
+          { "time": "12:00", "used": false },
+          { "time": "13:00", "used": false }
+        ],
+        "Wednesday": [
+          { "time": "09:00", "used": false },
+          { "time": "10:00", "used": false },
+          { "time": "11:00", "used": false },
+          { "time": "12:00", "used": false },
+          { "time": "13:00", "used": false }
+        ],
+        "Thursday": [
+          { "time": "09:00", "used": false },
+          { "time": "10:00", "used": false },
+          { "time": "11:00", "used": false },
+          { "time": "12:00", "used": false },
+          { "time": "13:00", "used": false }
+        ],
+        "Friday": [
+          { "time": "09:00", "used": false },
+          { "time": "10:00", "used": false },
+          { "time": "11:00", "used": false },
+          { "time": "12:00", "used": false },
+          { "time": "13:00", "used": false }
+        ]
+      }
+    }
+  ]
+  
